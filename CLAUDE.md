@@ -37,4 +37,4 @@ vendored in `external/`.
 ## Code style
 
 - Keep it simple: free functions, no anonymous namespaces
-- Allman braces, 4 spaces, `UPPER_CASE` constants
+- Allman braces, 4 spaces, `UPPER_CASE` constants 
